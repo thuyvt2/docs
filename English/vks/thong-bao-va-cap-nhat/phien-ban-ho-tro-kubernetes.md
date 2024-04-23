@@ -1,0 +1,5 @@
+# Kubernetes Support Versions
+
+&#x20;Hiện tại, hệ thống VKS đang cung cấp cho bạn 3 Kubernetes version bao gồm:
+
+<table data-header-hidden><thead><tr><th width="165"></th><th width="152"></th><th></th></tr></thead><tbody><tr><td><strong>Version</strong></td><td><strong>Ngày hết hạn</strong></td><td><strong>Tham khảo thêm</strong></td></tr><tr><td>Vesion 1.29.1</td><td>2025-02-28</td><td><a href="https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.29.md#v1291">https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.29.md#v1291</a></td></tr><tr><td>Version 1.28.8</td><td>2024-10-28</td><td><a href="https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.28.md#v1288">https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.28.md#v1288</a></td></tr><tr><td>Version 1.27.12</td><td>2024-06-28</td><td><a href="https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.27.md#v12712">https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.27.md#v12712</a></td></tr></tbody></table>
